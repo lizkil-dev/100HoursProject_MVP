@@ -1,0 +1,10 @@
+.titleImg {
+  width: 70%;
+  height: 500px;
+  overflow: hidden;
+  margin: 100px auto;
+}
+
+img {
+  width: 100%;
+}

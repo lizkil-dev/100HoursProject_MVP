@@ -1,0 +1,17 @@
+section {
+  width: 900px;
+  margin: 100px auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+div.imageContainer {
+  width: 400px;
+  height: 300px;
+  overflow: hidden;
+  margin: 25px;
+}
+
+
+
